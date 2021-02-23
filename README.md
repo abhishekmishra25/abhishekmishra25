@@ -12,7 +12,7 @@
 
 **Contacts**
 <br>
-<img align="left" alt="Tatev's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://www.linkedin.com/in/tatev-karen-aslanyan-92712114a/">LinkedIn</a>
+<img align="left" alt="Tatev's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://www.linkedin.com/in/abhishek-mishra-ba30921b0/">LinkedIn</a>
 
 <br><br>
 **Case Studies and Analysis using Languages**  
