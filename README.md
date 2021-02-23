@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Tensorflow
 - 💬 Ask me about Scikit learn,Pandas and Data Analysis
 - 📫 How to reach me: <br>
-<img align="left" alt="Tatev's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://www.linkedin.com/in/tatev-karen-aslanyan-92712114a/">LinkedIn</a>
+<img align="left" alt="Tatev's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://www.linkedin.com/in/tatev-karen-aslanyan-92712114a/">LinkedIn</a><br>
 (https://www.instagram.com/i_am_abhishek_602/)
 <!---- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
