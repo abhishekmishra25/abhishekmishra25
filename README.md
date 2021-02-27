@@ -1,6 +1,6 @@
 ### Hello, I'm Abhishek Mishra 👋
 
-- 🔭 I’m currently working on Optical Character Recognition
+<!--- 🔭 I’m currently working on Optical Character Recognition-->
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on Natural language Processing projects in python
 - 🤔 I’m looking for help with Tensorflow
