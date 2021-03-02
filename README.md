@@ -1,5 +1,5 @@
 ### Hello, I'm Abhishek Mishra 👋
-
+<img src ="https://github.com/abhishekmishra25/abhishekmishra25/blob/main/_CHI5204-01.jpeg.jpg">
 <!--- 🔭 I’m currently working on Optical Character Recognition-->
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on Natural language Processing projects in python
