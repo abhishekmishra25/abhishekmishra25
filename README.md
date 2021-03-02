@@ -1,5 +1,5 @@
 ### Hello, I'm Abhishek Mishra 👋
-<img src ="https://github.com/abhishekmishra25/abhishekmishra25/blob/main/_CHI5204-01.jpeg.jpg">
+<!--<img src ="https://github.com/abhishekmishra25/abhishekmishra25/blob/main/_CHI5204-01.jpeg.jpg">-->
 <!--- 🔭 I’m currently working on Optical Character Recognition-->
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on Natural language Processing projects in python
@@ -12,8 +12,8 @@
 
 **Contacts**
 <br>
-<img align="left" alt="Tatev's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://www.linkedin.com/in/abhishek-mishra-ba30921b0/">LinkedIn</a>
-
+<img align="left" alt="Abhishek's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://www.linkedin.com/in/abhishek-mishra-ba30921b0/">LinkedIn</a>
+<img align="left" alt="Abhishek's Insta" width="26px" src="https://github.com/abhishekmishra25/abhishekmishra25/blob/main/download.jpg"/> <a href="https://www.instagram.com/i_am_abhishek_602/">Instagram</a>
 <br><br>
 **Languages used by me**  
 <br>
