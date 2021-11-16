@@ -1,7 +1,7 @@
 ### Hello, I'm Abhishek Mishra 👋
 <!--<img src ="https://github.com/abhishekmishra25/abhishekmishra25/blob/main/_CHI5204-01.jpeg.jpg">-->
 <!--- 🔭 I’m currently working on Optical Character Recognition-->
-- <!--<img src="https://komarev.com/ghpvc/?username=abhishekmishra25" alt="Visitor Count" />-->
+- <img src="https://komarev.com/ghpvc/?username=abhishekmishra25" alt="Visitor Count" />
 - 🌱 I’m currently learning Every Things
 - 👯 I’m looking to collaborate on Natural language Processing projects in python
 - 🤔 I’m looking for help with Web Development
