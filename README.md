@@ -13,9 +13,9 @@
 
 **Contacts**
 <br>
-<img align="left" alt="Abhishek's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"> <a href="https://www.linkedin.com/in/abhishek-mishra-ba30921b0/">LinkedIn</a>
-<img align="left" alt="Abhishek's Insta" width="26px" src="https://github.com/abhishekmishra25/abhishekmishra25/blob/main/download.jpg"> <a href="https://www.instagram.com/i_am_abhishek_602/">Instagram</a>
-<br><br>
+ <a href="https://www.linkedin.com/in/abhishek-mishra-ba30921b0/"><img align="left" alt="Abhishek's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>
+ <a href="https://www.instagram.com/i_am_abhishek_602/"><img align="left" alt="Abhishek's Insta" width="26px" src="https://github.com/abhishekmishra25/abhishekmishra25/blob/main/download.jpg"></a>
+
 **Languages that i use frequently**  
 <br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
